@@ -10,7 +10,7 @@ citation: 'Chengnian Sun, Yuanbo Li, Qirun Zhang, Tianxiao Gu and Zhendong Su. &
 ---
 [Download paper here](http://chengniansun.bitbucket.io/papers/perses.pdf)
 
-'Chengnian Sun, Yuanbo Li, Qirun Zhang, Tianxiao Gu and Zhendong Su. &quot;Paper Title Number 1.&quot; <i>In Proceedings of International Conference of Software Engineering</i>.'
+'Chengnian Sun, Yuanbo Li, Qirun Zhang, Tianxiao Gu and Zhendong Su. &quot;Paper Title Number 1.&quot; <i>In Proceedings of International Conference of Software Engineering 2018</i>.'
 
 
 
