@@ -6,7 +6,7 @@ excerpt: 'syntax-guided program reduction'
 date: 2018-5-27
 venue: 'Proceedings of ICSE'
 paperurl: ''
-citation: 'Chengnian Sun, Yuanbo Li, Qirun Zhang, Tianxiao Gu and Zhendong Su. &quot;Perses: Syntax-Guided Program Reduction.&quot; <i>In Proceedings of International Conference of Software Engineering</i>.'
+citation: 'Chengnian Sun, Yuanbo Li, Qirun Zhang, Tianxiao Gu and Zhendong Su. &quot;Perses: Syntax-Guided Program Reduction.&quot; <i>In Proceedings of International Conference of Software Engineering 2018</i>.'
 ---
 [Download paper here](http://chengniansun.bitbucket.io/papers/perses.pdf)
 
