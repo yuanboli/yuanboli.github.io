@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Yuanbo Li"
   avatar           : "yuanboli_photo.jpg"
-  bio              : "Undergraduate student in UC Davis, major in Math and Computer Science, interested in theoretical aspects of machine learning as well as graph theory." #"Your biography for the left-hand sidebar"
+  bio              : "Undergraduate student in UC Davis, major in Math and Computer Science, interested in theoretical aspects of machine learning as well as graph theory. My email is: yboli [at] ucdavis [dot] edu" #"Your biography for the left-hand sidebar"
   location         : "Davis, CA"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "yboli [at] ucdavis [dot] edu"
+  email            : "yboli@ucdavis.edu"
   uri              :
   bitbucket        :
   codepen          :
