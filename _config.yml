@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuanbo Li"
 title_separator          : "-"
 name                     : &name "Yuanbo Li"
-description              : &description "Undergraduate student in Math and Computer Science"
+description              : &description "Computer Science PhD Student"
 url                      : https://yuanboli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuanboli.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Yuanbo Li"
   avatar           : "yuanboli_photo.jpg"
-  bio              : "Undergraduate student in UC Davis, major in Math and Computer Science.\nMy email is: yboli [at] ucdavis [dot] edu" #"Your biography for the left-hand sidebar"
+  bio              : "PhD student in Computer Science in Gatech.\nMy email is: yuanboli [at] gatech [dot] edu" #"Your biography for the left-hand sidebar"
   location         : "Davis, CA"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "yboli@ucdavis.edu"
+  email            : "yuanboli@gatech.edu"
   uri              :
   bitbucket        :
   codepen          :
