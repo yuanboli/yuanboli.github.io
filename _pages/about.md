@@ -10,5 +10,5 @@ redirect_from:
 
 This is the front page of Yuanbo Li's personal website.
 
-I am currently an undergraduate student in University of California, Davis. Major in Mathematics and Computer Science, I am interested in program analysis and verification, especially on complex systems.
+I am currently an first year Computer Science PhD student in Georgia Institute of Technology mentored by professor Qirun Zhang. My research interests lie in program analysis and graph algorithms. I finished my undergraduate study in University of California, Davis with majors in Mathematics and Computer Science.
 
